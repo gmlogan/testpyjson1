@@ -1,0 +1,44 @@
+{
+    "fighters": [
+        {
+            "name": "Muhammad Ali",
+            "nickname": "The Greatest"
+        },
+        {
+            "name": "Chuck Liddell",
+            "nickname": "The Iceman"
+        },
+        {
+            "name": "Rocky Marciano",
+            "nickname": "The Brockton Blockbuster"
+        },
+        {
+            "name": "Randy Couture",
+            "nickname": "The Natural"
+        },
+        {
+            "name": "Fedor Emelianenko",
+            "nickname": "The Last Emperor"
+        },
+        {
+            "name": "Jon Jones",
+            "nickname": "Bones"
+        },
+        {
+            "name": "George Foreman",
+            "nickname": "Big George"
+        },
+        {
+            "name": "Wanderlei Silva",
+            "nickname": "The Axe Murderer"
+        },
+        {
+            "name": "Gearges St. Pierre",
+            "nickname": "Rush"
+        },
+        {
+            "name": "Manny Pacquiao",
+            "nickname": "Pac-Man"
+        }
+    ]
+}
